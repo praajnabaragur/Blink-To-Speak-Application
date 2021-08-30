@@ -9,6 +9,8 @@ Currently tested only on Linux.<br>
 Glitches found on MacOS.<br>
 Not tested on Windows.<br>
 
+Note: The Application is currently still under development.
+
 Sources:
 <ol>
 <li><a href="https://towardsdatascience.com/real-time-eye-tracking-using-opencv-and-dlib-b504ca724ac6"> Real-time eye tracking using OpenCV and Dlib by Vardan Agarwal </a> </li> 
