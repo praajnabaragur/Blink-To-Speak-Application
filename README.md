@@ -5,7 +5,7 @@ Made By - <a href="https://github.com/ThePerkyFellow"> Mayur G </a> & <a href="h
 Pre-trained Model download link : <a href="https://github.com/davisking/dlib-models/blob/master/shape_predictor_68_face_landmarks.dat.bz2"> CLICK HERE
 </a>
 
-Currently tested only on Linux.<br>
+Currently tested on Linux.<br>
 Glitches found on MacOS.<br>
 Not tested on Windows.<br>
 
